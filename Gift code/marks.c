@@ -15,7 +15,7 @@ printf("Enter your maths marks: ");
     
     scanf("%d", &science_marks);
     
-	
+	//new comment
 	
     if  (maths_marks>=30 && science_marks>=40){
     printf("You are passed in maths and science .You will recieve a ******gift of DAIRY MILK CHOCLATE worth Rs 45*****");
