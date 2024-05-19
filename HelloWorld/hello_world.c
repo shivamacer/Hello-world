@@ -10,5 +10,7 @@ int main(){
 	printf("Entered number is : %d", a);
     printf("\nhello world");
 
+	printf('hello2');
+
     return 0;
 }
