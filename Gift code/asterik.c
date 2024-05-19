@@ -8,6 +8,8 @@ int x=5;
  
  printf("%d\n",&x);
  printf("%d",a);
+
+ printf('hello');
  
  return 0;
 }
