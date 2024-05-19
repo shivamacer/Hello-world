@@ -4,6 +4,7 @@ int main()
    int arr[] = {311,52,3,4,5,6,67};
    int* arrpntr = arr;
    printf("Value at postion 3 is %d\n", arr[3]);
+   printf("gitchange");
    printf("The address of first element of the array is %d \n", &arr[0]);
    
    
