@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+                        // HOMEWORK
 int main(){
 
 int maths_marks;
